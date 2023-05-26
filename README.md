@@ -79,7 +79,8 @@ namespace mayeight
 ```
  ## Output:
  
- ![EXP-6](https://github.com/MIRUDHULA-DHANARAJ/Operator-Overloading/assets/94828147/959fd20b-0b90-4746-ac47-2e57721edada)
+
+![EXP-6](https://github.com/MIRUDHULA-DHANARAJ/Operator-Overloading/assets/94828147/db94e578-f473-4cba-bc43-3415ed0b9830)
 
  
  
