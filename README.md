@@ -80,10 +80,8 @@ namespace mayeight
  ## Output:
  
 
-![EXP-6](https://github.com/MIRUDHULA-DHANARAJ/Operator-Overloading/assets/94828147/db94e578-f473-4cba-bc43-3415ed0b9830)
+![EXP1-6](https://github.com/MIRUDHULA-DHANARAJ/Operator-Overloading/assets/94828147/900f7ff7-c206-4ecb-a679-4259f867ec28)
 
- 
- 
  ## Result:
  
  Thus a C# program to pass values through constructors(default and parameterized) and also overload equal operators by checking whether objects are equal using operator overloading is successfully executed.
